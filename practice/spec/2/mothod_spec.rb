@@ -1,4 +1,4 @@
-require_relative '../2/method'
+require_relative '../../2/method'
 
 # frozen_string_literal: true
 

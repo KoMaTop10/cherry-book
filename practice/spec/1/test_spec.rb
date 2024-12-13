@@ -1,4 +1,4 @@
-require_relative '../1/test'
+require_relative '../../1/test'
 
 RSpec.describe Komachi do
   let(:komachi) {described_class.new}
