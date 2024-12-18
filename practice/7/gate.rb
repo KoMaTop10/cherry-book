@@ -1,5 +1,6 @@
 class Gate
-  def enter
-    true
+  attr_reader :koma
+  def initialize(koma) 
+    @koma = koma
   end
 end
